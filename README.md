@@ -1,5 +1,8 @@
 # reimagined-telegram-GOLF
 
-- need to add validity link, code link, readME link, and class page link
-- possibly reformat the content inside of the cards, margins, padding, etc.
-- maybe add color to footer but I do not think it needs it.
+GOLF group lab. 
+Members: Tyre Pickett, Logan Beckman, Dalton Rodgers 
+
+Everyone's game in one place. 
+
+Lab involves data file that gets loaded into the DOM. 
